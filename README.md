@@ -1,5 +1,5 @@
-# NewsMonkey - Interactive News Website
-NewsMonkey is an interactive and responsive news web application that provides all the latest news from around the globe. Developed using ReactJS and News API, NewsMonkey offers news on a wide range of topics, including business, politics, sports, entertainment, science & technology, and more.
+# NewsMania - Interactive News Website
+NewsMania is an interactive and responsive news web application that provides all the latest news from around the globe. Developed using ReactJS and News API, NewsMonkey offers news on a wide range of topics, including business, politics, sports, entertainment, science & technology, and more.
 
 ![nm1](https://github.com/adityapadwal/NewsMonkey-React/assets/97524745/a54c3211-bf4e-4ca6-8b61-34b4dc01c6b7)
 ![nm2](https://github.com/adityapadwal/NewsMonkey-React/assets/97524745/1a60bec9-785d-4172-8e47-30b825aeabb3)
